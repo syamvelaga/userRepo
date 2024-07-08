@@ -1,0 +1,20 @@
+*{
+  margin: 0px;
+}
+.App {
+  text-align: center;
+}
+body{
+  min-height: 100vh;
+  padding: 10px;
+  background-color: #d2f2b3;
+}
+
+.content-container{
+  display: flex;
+
+}
+
+
+
+

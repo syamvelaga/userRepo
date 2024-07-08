@@ -1,0 +1,81 @@
+
+.airports-detailed-view-main-container{
+    display: flex;
+}
+.airports-detailed-view-container{
+    min-height: 90vh;
+    width: 100%;
+    padding: 20px;
+    background-color: #ffffff;
+}
+.detailed-view-text{
+    font-family: "Roboto";
+    font-size: 20px;
+}
+.span-text{
+    font-size: 20px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.768);
+}
+.heading-detailed-view{
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.768);
+}
+.tabs{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+}
+.tabs-container{
+    width: 30vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.card-container{
+    display: flex;
+    
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    margin-top: 30px;
+
+}
+.card{
+    display: flex;
+    border: 1px solid #898787;
+    border-radius: 5px;
+    padding: 4px;
+    margin: 20px;
+    
+
+}
+.custom-image-size{
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+}
+.terminal-text-image{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.911);
+}
+.terminal-text-image-para{
+    font-family: "Roboto";
+    font-size: 18px;
+    
+    color: rgba(107, 104, 104, 0.911);
+}
+.form-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.input-element-container{
+    margin: 10px;
+}

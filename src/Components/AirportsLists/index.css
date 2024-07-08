@@ -1,0 +1,100 @@
+.airports-list-main-container{
+    padding-left: 20px;
+    padding-right: 10px;
+    height: 90vh;
+    width: 70vw;
+    
+}
+.airport-title-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.airports-list-heading-text{
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 800;
+    color: rgba(15, 14, 14, 0.899);
+}
+.list-of-table-airports-container{
+    
+    border: 2px solid #c7c5bf;
+}
+.all-list-container-table-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.table-heading-airport-text{
+    font-family: "Roboto";
+    
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(20, 15, 15);
+}
+.airports-list-container{
+    list-style-type: none;
+    padding: 0px;
+}
+.list-items-airport-lists{
+    font-family: "Roboto";
+    font-size: 20px;
+}
+.check-box-container{
+    display: flex;
+    align-items: center;
+}
+.Airport-para-text{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.873);
+    margin-right: 5px;
+}
+.right-side-table-heading-container{
+    width: 30vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.each-list-item-container{
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 77.9vw;
+   
+    
+}
+.list-item-content-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid #c7c5bf;
+    border-top: none;
+    width: 100%;
+}
+.check-box-container-items{
+    display: flex;
+    align-items: center;
+}
+.Airport-para-text-list-items{
+    font-family: "Roboto";
+    font-size: 20px;
+    
+    color: rgba(0, 0, 0, 0.873);
+    margin-right: 5px;
+}
+.buttons-container{
+    width: 120px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.link-style-custom{
+    text-decoration: none;
+    color: rgb(75, 74, 74);
+}

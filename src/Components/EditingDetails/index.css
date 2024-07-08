@@ -1,0 +1,23 @@
+.editing-page-container{
+    height: 90vh;
+    width: 80vw;
+    padding: 20px;
+    
+}
+.label-text{
+    font-family: "Roboto";
+    font-size: 16px;
+
+}
+.input-element{
+    font-family: "Roboto";
+    font-size: 18px;
+    width: 250px;
+    height: 40px;
+    border-radius: 4px;
+}
+.edit-success-text{
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #67c718;
+}

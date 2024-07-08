@@ -1,0 +1,14 @@
+.header-container{
+    height: 10vh;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f1f2b3;
+}
+
+.header-title{
+    font-family: "Roboto";
+    font-size: 24px;
+    color: rgb(18, 16, 16);
+}

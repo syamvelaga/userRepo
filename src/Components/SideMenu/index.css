@@ -1,0 +1,36 @@
+.side-menu-container{
+    min-height: 90vh;
+    width:10vw;
+    padding: 20px;
+    background-color: #d2f2b3;
+}
+.home-icon-container{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+
+}
+.home-label-text{
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-left: 10px;
+
+}
+.service-heading-text{
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.856);
+}
+.list-container-side-menu{
+    padding: 0px;
+    list-style-type: none;
+
+}
+.list-items-side-menu{
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
